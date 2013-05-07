@@ -760,14 +760,12 @@ abstract class Request extends BaseRegistrationRequest
             'BillingCity',
             'BillingPostCode',
             'BillingCountry',
-            'BillingState',
             'DeliverySurname',
             'DeliveryFirstnames',
             'DeliveryAddress1',
             'DeliveryCity',
             'DeliveryPostCode',
-            'DeliveryCountry',
-            'DeliveryState'
+            'DeliveryCountry'
         );
     }
 
